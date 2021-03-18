@@ -10,4 +10,4 @@
 | read02b              | [revision and the cloud](read1.md)         |
 | read3                | [structure web pages with html](read1.md)  |
 | lab2                 | [Lab 2](lab02.md)                          |
-
+| read04               | [Programming with JavaScript](read04.md)   |
