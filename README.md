@@ -11,3 +11,4 @@
 | read3                | [structure web pages with html](read1.md)  |
 | lab2                 | [Lab 2](lab02.md)                          |
 | read04               | [Programming with JavaScript](read04.md)   |
+| read05               | [Operators and Loops](read05.md)           |
