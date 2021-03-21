@@ -3,6 +3,7 @@
 ## how to keep yourself in growth mindset 
 
 ### Table of content :
+
 | Tassignment          |                   link                     |
 |----------------------|--------------------------------------------|
 | read1                | [the coder's computer](read1.md)           |
