@@ -6,10 +6,11 @@
 
 | Tassignment          |                   link                     |
 |----------------------|--------------------------------------------|
+| lab2                 | [Lab 2](lab02.md)                          |
 | read1                | [the coder's computer](read1.md)           |
 | read02a              | [learning markdown](read02a.md)            |
-| read02b              | [revision and the cloud](read1.md)         |
-| read3                | [structure web pages with html](read1.md)  |
-| lab2                 | [Lab 2](lab02.md)                          |
+| read02b              | [revision and the cloud](read02b.md)       |
+| read03a              | [structure web pages with html](read03a.md)|
 | read04               | [Programming with JavaScript](read04.md)   |
 | read05               | [Operators and Loops](read05.md)           |
+| read06               | [ Design web pages with CSS](read06.md)    |
