@@ -1,7 +1,7 @@
-javascript allows us to make our website more interactive by accessing and modifying the content that you have written 
+**javascript** allows us to make our website more interactive by accessing and modifying the content that you have written 
 by html , there are a set of steps to tell the browser which allows it to access and modify the content , ot make respond 
 for users do , example what javascript does in addition to access and modify it can program and react. 
-
+<hr>
 some of its advantages : - reload part of page - filtiring data
 we have to have moderen browser that can deal with java script , for the older browser there are something else to do .
 
@@ -12,7 +12,7 @@ follow these step in order to write the script :
 2-design the script by writing set of tasks 
 3-code each step 
 you can use a helpful way to make it easier for you by sketching the tasks in a flowchart .
-
+<hr>
 javascript has two types of expressions expression that hust assign a value to a variable for example var color = 'beige'; 
 expression that use two or more values to return a single value for example var area = 3 * 2;
 and like all programming language javascript has mathmatical operators + - / * 

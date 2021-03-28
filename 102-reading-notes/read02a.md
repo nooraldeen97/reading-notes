@@ -1,5 +1,0 @@
-markdown is an easy way to syntax for styling in GitHub for adding image , creating lists and format the words ,it uses # for makes headers , uses * and - symbols to make the text italic , uses ** and -- for bold text , it can make lists in both type ordered and unordered lists, it adds image , links , blockquote by using > .
-
-GitHub help you in many things and especially in coding and it enable you to share your work or your website that you made it with other people all around the world , you can use the terminals in GitHub or GitHub desktop .
-
-some basic syntax on GitHub headings # Styling text by using (** for bold), (* for italic) ,You can create an inline link by wrapping link text in brackets [ ] ,and then wrapping the URL in parentheses ( )  , making lists by - or * before what you want to list and the ordered lists with the numbers .

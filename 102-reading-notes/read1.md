@@ -1,4 +1,0 @@
-we have GUI and CLI , the easy one is GUI and every one can deal with it , the terminal part is a little bit hard for someone how doesn't use it before but its going to be easy by time ,the command line has many advantages for users so you can do much more things than the GUI .
-we have commands and output of them ,we have different way to open a terminals it depends where you are ( mac , Linux , windows ) by the way its easy to open it. 
-some important commands (pwd for showing where you are exactly) , ls command to list the files and folders , cd command to go forward the folder , the (cd ..) for going backwards the folder ,the Linux system deal with everything as a file and it ignores the extension and its a case sensitive
-Linux considers any file start with . as a hidden file and to show them you can use the command ls-a to show all hidden files and folders .
