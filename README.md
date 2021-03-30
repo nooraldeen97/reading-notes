@@ -33,7 +33,7 @@
 | class-09               | [ Forms and Events](201/class-09.md)                                             |
 | class-10               | [ JS Debugging](201/class-10.md)                                                 |
 | class-11               | [  Assorted Topics](201/class-11.md)                                             |
-| class-12               | [ Docs for the HTML <canvas> Element & Chart.js](201/class-12.md)                |
+| class-12               | [ Docs for the HTML canvas Element & Chart.js](201/class-12.md)                |
 | class-13               | [ Local storage](201/class-13.md)                                                |
 | class-14a              | [ CSS Transforms, Transitions, and Animations](201/class-14a.md)                 |
 | class-14b              | [ What Google Learned About Teams](201/class-14b.md)                             |
