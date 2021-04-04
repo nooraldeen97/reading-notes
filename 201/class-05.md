@@ -3,7 +3,7 @@ so its a good practice if you make your website from the scratch to make a folde
 intend to use inside it.<br>
 **Adding images in HTML:** by a img tag , its a selfclosing tag and it include src which is the link of the image 
 and alt and its optional you need in order there is a problem to show the picture it shows an alternative to inform the users
-for example :here there is a picture , and you can add a height and width for your image.<br>
+for example :here there is a picture , and you can add a height and width for your image.<br>N
 
 ### color can make your website alive , there are three ways th spacify the colors for your pages 
 1- RGB values : these expression indicate how much red , green and blue colors are used to make it up .<br>
