@@ -13,16 +13,16 @@ to your site:
 -Submit buttons
 -image buttons
 -File upload
-<form>
-Form controls live inside a <form> element. This element should always carry the action attribute and will usually have a<br>
+<!-- <form> -->
+Form controls live inside a <!-- <form> --> element. This element should always carry the action attribute and will usually have a<br>
 method and id attribute too.<br>
-action Every <form> element requires an action attribute. Its value is the URL for the page on the server that will receive the<br>
+action Every <!-- <form> --> element requires an action attribute. Its value is the URL for the page on the server that will receive the<br>
 information in the form when it is submitted. method Forms can be sent using one of two methods: get or post. <br>
 
 **table:** tables represent information in a grid format ,and grids allow us to understand complex data by referencing
 information on two axes .
 
-**Basic table structure :** <table> tag , <tr> tag which stands for table row , < td> which stands for table data ,
+**Basic table structure :** <!-- <table> -->< tag , <!-- <tr> --> tag which stands for table row , < td> which stands for table data ,
 <th> for table headings , long tables include thead , tbody , tfoot , you can style tables by adding border , 
 background color using CSS styling tags .
 
