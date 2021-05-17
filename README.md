@@ -5,7 +5,7 @@
 ## Table of content :
 ## Code 102 - Intro to Software Development: <hr>
 
-| Tassignment          |                   link                         |
+|  assignment          |                   link                         |
 |----------------------|------------------------------------------------|
 | lab2                 | [Lab 2](102/lab02.md)                          |
 | read1                | [the coder's computer](102/read1.md)           |
@@ -20,7 +20,7 @@
 ## Code 201 - Foundations of Software Development: <hr>
 
 
-| Tassignment            |                link                                                              |
+|  assignment            |                link                                                              |
 |------------------------|----------------------------------------------------------------------------------|
 | class-01               | [Introductory HTML and JavaScript ](201/class-01.md)                             |
 | class-02               | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/class-02.md)|
@@ -43,6 +43,9 @@
 
 ## Code 301 - Intermediate Software Development: <hr>
 
+|  assignment            |                link                                                              |
+|------------------------|----------------------------------------------------------------------------------|
+| read-02                | [State and Props ](301/read-02.md)                                               |
 
 
 ## Code 401 - Advanced Software Development: <hr>
