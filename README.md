@@ -46,6 +46,7 @@
 |  assignment            |                link                                                              |
 |------------------------|----------------------------------------------------------------------------------|
 | read-02                | [State and Props ](301/read-02.md)                                               |
+| read-03                | [ Passing Functions as Props ](301/read-03.md)                                   |
 
 
 ## Code 401 - Advanced Software Development: <hr>
