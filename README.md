@@ -51,6 +51,7 @@
 | read-04                | [ React and Forms  ](301/read-04.md)                                             |
 | read-05                | [ Putting it all together  ](301/read-05.md)                                     |
 | read-06                | [ NODE.JS  ](301/read-06.md)                                                     |
+| read-07                | [ REST  ](301/read-07.md)                                                        |
 
 
 ## Code 401 - Advanced Software Development: <hr>
