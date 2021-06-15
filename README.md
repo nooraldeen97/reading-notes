@@ -53,6 +53,7 @@
 | read-06                | [ NODE.JS  ](301/read-06.md)                                                     |
 | read-07                | [ REST  ](301/read-07.md)                                                        |
 | read-08                | [ APIs  ](301/read-08.md)                                                        |
+| read-09                | [  FUNCTIONAL PROGRAMMING  ](301/read-09.md)                                     |
 
 
 ## Code 401 - Advanced Software Development: <hr>
