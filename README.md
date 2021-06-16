@@ -54,6 +54,7 @@
 | read-07                | [ REST  ](301/read-07.md)                                                        |
 | read-08                | [ APIs  ](301/read-08.md)                                                        |
 | read-09                | [  FUNCTIONAL PROGRAMMING  ](301/read-09.md)                                     |
+| read-10                | [   In memory storage ](301/read-10.md)                                          |
 
 
 ## Code 401 - Advanced Software Development: <hr>
