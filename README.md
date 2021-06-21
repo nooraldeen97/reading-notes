@@ -57,6 +57,7 @@
 | read-10                | [   In memory storage ](301/read-10.md)                                          |
 | read-11                | [   Authentication](301/read-11.md)                                              |
 | read-12                | [ Mongo and Mongoose](301/read-12.md)                                            |
+| read-13                | [ CRUD ](301/read-13.md)                                                         |
 
 
 ## Code 401 - Advanced Software Development: <hr>
