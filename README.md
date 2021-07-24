@@ -65,3 +65,18 @@
 ## Code 401 - Advanced Software Development: <hr>
 
 
+|  assignment            |                link                                                              |
+|------------------------|----------------------------------------------------------------------------------|
+| read-01                | [Java Basics ](401/read-01.md)                                                   |
+| read-02                | [Arrays, Loops, Imports ](401/read-02.md)                                        |
+| read-03                | [Maps, primitives, File I/O ](401/read-03.md)                                    |
+| read-04                | [  OOP  ](401/read-04.md)                                                        |
+| read-05                | [ Linked Lists ](401/read-05.md)                                                 |
+| read-06                | [ Inheritance and Interfaces ](401/read-06.md)                                   |
+| read-07                | [ Inheritance day 2 ](401/read-07.md)                                            |
+| read-08                | [ OO Design  ](401/read-08.md)                                                   |
+| read-09                | [ WRRC and Java ](401/read-09.md)                                                |
+| read-10                | [ Stacks & Queues ](401/read-10.md)                                              |
+| read-11                | [  Spring ](401/read-11.md)                                                      |
+| read-12                | [ Spring RESTful Routing & Static Files](401/read-12.md)                         |
+| read-13                | [ Related Resources and Integration Testing](401/read-13.md)                     |
