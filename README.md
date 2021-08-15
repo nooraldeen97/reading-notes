@@ -80,3 +80,5 @@
 | read-11                | [  Spring ](401/read-11.md)                                                      |
 | read-12                | [ Spring RESTful Routing & Static Files](401/read-12.md)                         |
 | read-13                | [ Related Resources and Integration Testing](401/read-13.md)                     |
+| read-16                | [ Spring Authentication](401/read-16.md)                                         |
+
