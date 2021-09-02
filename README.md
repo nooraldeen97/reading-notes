@@ -87,5 +87,6 @@
 | read-26                | [ Android fundamentals](401/read-26.md)                                          |
 | read-27                | [ Intents, Activities, and SharedPreferences](401/read-27.md)                    |
 | read-28                | [ RecyclerView](401/read-28.md)                                                  |
-| read-29                | [ Room](401/read-29.md)                                                  |
+| read-29                | [ Room](401/read-29.md)                                                          |
+| read-30                | [ Hash-tables](401/read-30.md)                                                   |
 
