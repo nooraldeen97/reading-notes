@@ -90,5 +90,6 @@
 | read-29                | [ Room](401/read-29.md)                                                          |
 | read-30                | [ Hash-tables](401/read-30.md)                                                   |
 | read-31                | [ Espresso](401/read-31.md)                                                      |
-| read-32                | [ Espresso](401/read-32.md)                                                      |
+| read-32                | [  Serverless and Amplify](401/read-32.md)                                       |
+| read-33                | [ GraphQL @connection](401/read-33.md)                                           |
 
