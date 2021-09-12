@@ -92,5 +92,6 @@
 | read-31                | [ Espresso](401/read-31.md)                                                      |
 | read-32                | [  Serverless and Amplify](401/read-32.md)                                       |
 | read-33                | [ GraphQL @connection](401/read-33.md)                                           |
+| read-35                | [ Graphs](401/read-35.md)                                                        |
 | read-36                | [ Cognito](401/read-36.md)                                                       |
 
