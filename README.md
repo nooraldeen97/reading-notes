@@ -95,4 +95,5 @@
 | read-35                | [ Graphs](401/read-35.md)                                                        |
 | read-36                | [ Cognito](401/read-36.md)                                                       |
 | read-37                | [ S3](401/read-37.md)                                                            |
+| read-38                | [ Notifications](401/read-38.md)                                                 |
 
