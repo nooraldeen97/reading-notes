@@ -98,4 +98,5 @@
 | read-38                | [ Notifications](401/read-38.md)                                                 |
 | read-41                | [ Intent Filter](401/read-41.md)                                                 |
 | read-42                | [ Location](401/read-42.md)                                                      |
+| read-42                | [ Ethics](401/read-42Ethics.md)                                                  |
 
