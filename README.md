@@ -97,4 +97,5 @@
 | read-37                | [ S3](401/read-37.md)                                                            |
 | read-38                | [ Notifications](401/read-38.md)                                                 |
 | read-41                | [ Intent Filter](401/read-41.md)                                                 |
+| read-42                | [ Location](401/read-42.md)                                                      |
 
